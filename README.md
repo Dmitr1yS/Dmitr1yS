@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/Dmitr1yS">
-    <img src="https://drive.google.com/file/d/18x6YFJi2pXvBfa2CkZdtGUMr0Ih0M5kM/view" alt="Astelit Banner">
+    <img src="https://drive.google.com/u/0/drive-viewer/AKGpihZNqzTylC2IZrGXj3hRCmX1VmrHlrp7FAnHOssl6iazXzzKDPBKhOp9cshZAG_mLTjUEhr1wppGazYuB0lfSTrlPVV9ljDKFw=s1600-rw-v1" alt="Astelit Banner">
   </a>
   <br/>
   <h1>
@@ -26,7 +26,7 @@
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,prisma,postgresql,sass,git,jest,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,prisma,postgresql,sass,git,docker,python&perline=6" />
   </a>
 </p>
 
@@ -36,6 +36,7 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitr1yS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitr1yS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
