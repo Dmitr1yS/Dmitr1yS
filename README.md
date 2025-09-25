@@ -1,24 +1,21 @@
 
 <div align="center">
+  
+  <h1>
+    <b>Dmitr1y_S Profile</b>
+    <br/>
+  </h1>
+  <h1>
+    Full-stack Developer from Astelit
+  </h1>
   <a href="https://github.com/Dmitr1yS">
     <img src="https://github.com/Dmitr1yS/Dmitr1yS/blob/main/Astelit%20Main%20Logo%20Dark%20Gorizont%20noBack.png?raw=true" alt="Astelit Banner">
-  </a>
-  <br/>
-  <h1>
-    <b>Hi, I'm Dmitry! 👋</b>
-  </h1>
-  <h3>
-    <b>A Full-stack Developer from Astelit</b>
-  </h3>
+  </a>  
+
   <p>
     <i>My job is to argue with a computer until it does what it's told.</i>
   </p>
-</div>
-
----
-
-<div align="center">
-  <p>🚀 <b>My current goal:</b> Publishing a new project every 3 days to consistently learn and grow.</p>
+  
 </div>
 
 ---
@@ -34,13 +31,13 @@
 
 
 <h3 align="center">📊 My GitHub Stats</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitr1yS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<div align="center" style="display: flex; justify-content: center; gap: 8px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitr1yS&size_weight=0.5&count_weight=0.5&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitr1yS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+<div align="center" style="margin-top: 8px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitr1yS&theme=calm_pink&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
 
 
