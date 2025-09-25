@@ -1,7 +1,7 @@
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://i.ibb.co/6yv6WjV/astelit-github-banner.png" alt="Astelit Banner">
+  <a href="https://github.com/Dmitr1yS">
+    <img src="https://drive.google.com/file/d/18x6YFJi2pXvBfa2CkZdtGUMr0Ih0M5kM/view" alt="Astelit Banner">
   </a>
   <br/>
   <h1>
@@ -35,10 +35,10 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitr1yS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitr1yS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
