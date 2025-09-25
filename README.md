@@ -32,8 +32,8 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitr1yS&size_weight=0.5&count_weight=0.5&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-five-lilac-39.vercel.app/api?username=Dmitr1yS&show_icons=true&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-five-lilac-39.vercel.app/api/top-langs/?username=Dmitr1yS&size_weight=0.5&count_weight=0.5&layout=compact&theme=calm_pink&hide_border=true&langs_count=8" alt="Top Languages" width="31.5%"/>
 </div>
 
 <div align="center" style="margin-top: 8px">
