@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/Dmitr1yS">
-    <img src="https://drive.google.com/u/0/drive-viewer/AKGpihZNqzTylC2IZrGXj3hRCmX1VmrHlrp7FAnHOssl6iazXzzKDPBKhOp9cshZAG_mLTjUEhr1wppGazYuB0lfSTrlPVV9ljDKFw=s1600-rw-v1" alt="Astelit Banner">
+    <img src="https://github.com/Dmitr1yS/Dmitr1yS/blob/main/Astelit%20Main%20Logo%20Dark%20Gorizont%20noBack.png?raw=true" alt="Astelit Banner">
   </a>
   <br/>
   <h1>
